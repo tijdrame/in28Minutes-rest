@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 
 @Data
 @AllArgsConstructor
-@NoArgsConstructor
+//@NoArgsConstructor
 public class ExceptionResponse {
     private LocalDate timeStamp;
     private String message;
